@@ -1,4 +1,4 @@
-package GameClasses;
+package gameclasses;
 
 /**
 * All classes that are not the main one needs to have this template

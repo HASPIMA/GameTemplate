@@ -1,12 +1,12 @@
-package Example;
+package example;
 
 import processing.core.*;
-import GameClasses.Class1;	// import of other classes
+import gameclasses.*;	// import of other classes
 
 public class Example1 extends PApplet{
 
 	public static void main (String[] args) {
-		PApplet.main("Example.Example1"); 	// The argument of this method must be "PackageName.ClassName"
+		PApplet.main("example.Example1"); 	// The argument of this method must be "PackageName.ClassName"
 	}
 
 	@Override
